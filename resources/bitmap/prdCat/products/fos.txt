@@ -2,5 +2,3 @@
 
 image quality = 90
 alpha quality = 100
-
-file size should be < 200kbs
